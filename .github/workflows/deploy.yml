@@ -30,4 +30,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: SkanderHellal/test_ci:latest
+        tags: docker.io/SkanderHellal/test_ci:latest
